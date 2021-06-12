@@ -7,7 +7,7 @@ We have some customer records in a text file (customers.txt) -- one customer per
 - Run `npm start`
 - Navigate to http://localhost:3000 on your browser
 
-#### Screenshots
+#### Screenshot
 <div align="center" markdown="1">
 
 <img src="https://github.com/twisstosin/intercom-proj/blob/master/screenshots/1.png" width="40%"/>
@@ -23,4 +23,5 @@ We have some customer records in a text file (customers.txt) -- one customer per
 <img src="https://github.com/twisstosin/intercom-proj/blob/master/screenshots/2.png" width="40%"/>
 <img src="https://github.com/twisstosin/intercom-proj/blob/master/screenshots/3.png" width="40%"/>
 </div>
+
 see `output.txt` for result
